@@ -47,3 +47,17 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+*.tif
+
+01_climate_sensitive_growth/01_data/
+
+03_ESSF_calibration/01_parameter_files/01_base_files/
+
+04_sortie_scenario_runs/01_parameter_files/01_base_files/
+
+04_sortie_scenario_runs/01_parameter_files/
+
+04_sortie_scenario_runs/02_parameter_values/
+
+04_sortie_scenario_runs/03_run_outputs/
